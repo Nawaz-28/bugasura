@@ -1,0 +1,2 @@
+# bugasura
+setting the details
